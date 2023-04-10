@@ -40,21 +40,21 @@ Des exercices d’évaluation formative sont aussi prévus tout au long de la se
 	
 ## Évaluations
 
-### Travail pratique 1 (25%)
+### Travail pratique 1 (30%)
 
 > Énoncé : Cours 7 \
 > Remise : Cours 11
 
 Développement d’un plugin.
 
-### Travail pratique 2 (25%)
+### Travail pratique 2 (35%)
 
 > Énoncé : Cours 15 \
 > Remise : Cours 19
 
 Développement d’un thème enfant.
 
-### Épreuve finale 
+### Épreuve finale (35%)
 
 > Date : Cours 20
 
