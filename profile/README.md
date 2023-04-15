@@ -90,7 +90,7 @@ Réaliser un site Web à l’aide d’un gestionnaire de contenu en adaptant ou 
 
 ### Partie 4 : Développer et mettre en ligne un site Web personnalisé basé sur un CMS (15 heures)
 
-À quatrième étape, l’étudiant·e sera amené·e à développer un site Web personnalisé basé sur un CMS. Il ou elle fera le développement du thème et des fonctionnalités supplémentaires, effectuera les tests nécessaires pour s’assurer de la qualité et de la validité de son travail. Finalement, il ou elle  mettre en ligne, dans un environnement de production la solution développée. Il ou elle appliquera les techniques de mise à jour du CMS, des extensions et des thèmes. À la fin de cette étape, l’étudiante sera en mesure de développer un site Web personnalisé basé sur un CMS, le mettre en ligne et d’en assurer la mise à jour.
+À quatrième étape, l’étudiant·e sera amené·e à développer un site Web personnalisé basé sur un CMS. Il ou elle fera le développement du thème et des fonctionnalités supplémentaires, effectuera les tests nécessaires pour s’assurer de la qualité et de la validité de son travail. Finalement, il ou elle mettra en ligne la solution développée dans un environnement de production. Il ou elle appliquera les techniques de mise à jour du CMS, des extensions et des thèmes. À la fin de cette étape, l’étudiante sera en mesure de développer un site Web personnalisé basé sur un CMS, le mettre en ligne et d’en assurer la mise à jour.
 
 - Cours 16 : Gestion d’un CMS
 - Cours 17–18 : Atelier
