@@ -41,28 +41,28 @@ Des exercices d’évaluation formative sont aussi prévus tout au long de la se
 ## Évaluations
 
 ### Journal de bord (10%)
-> Énoncé : Cours 1 \
+> Énoncé : cours 1 \
 > Remise : hebdomadaire (cours 3, 5, 7, 9, 11)
 
 Création et entretien d’un journal de bord.
 
 ### Travail pratique 1 (25%)
 
-> Énoncé : Cours 7 \
-> Remise : Cours 11
+> Énoncé : cours 7 \
+> Remise : cours 11
 
 Développement d’un plugin.
 
 ### Travail pratique 2 (30%)
 
-> Énoncé : Cours 15 \
-> Remise : Cours 19
+> Énoncé : cours 15 \
+> Remise : cours 19
 
 Développement d’un thème enfant.
 
 ### Épreuve finale (35%)
 
-> Date : Cours 20
+> Date : cours 20
 
 Réaliser un site Web à l’aide d’un gestionnaire de contenu en adaptant ou créant un thème et en y ajoutant des fonctionnalités supplémentaires
 
