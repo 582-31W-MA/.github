@@ -40,14 +40,20 @@ Des exercices d’évaluation formative sont aussi prévus tout au long de la se
 	
 ## Évaluations
 
-### Travail pratique 1 (30%)
+### Journal de bord (10%)
+> Énoncé : Cours 1
+> Remise : hebdomadaire (cours 3, 5, 7, 9, 11)
+
+Création et entretien d’un journal de bord.
+
+### Travail pratique 1 (25%)
 
 > Énoncé : Cours 7 \
 > Remise : Cours 11
 
 Développement d’un plugin.
 
-### Travail pratique 2 (35%)
+### Travail pratique 2 (30%)
 
 > Énoncé : Cours 15 \
 > Remise : Cours 19
