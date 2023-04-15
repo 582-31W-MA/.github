@@ -40,7 +40,7 @@ Des exercices d’évaluation formative sont aussi prévus tout au long de la se
 	
 ## Évaluations
 
-### Journal de bord (10%)
+### Journal de bord (5 × 2%)
 > Énoncé : cours 1 \
 > Remise : hebdomadaire (cours 3, 5, 7, 9, 11)
 
