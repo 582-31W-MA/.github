@@ -40,7 +40,7 @@ Des exercices d’évaluation formative sont aussi prévus tout au long de la se
 	
 ## Évaluations
 
-### Journal de bord (5 × 2%)
+### Journal de bord (5 × 3%)
 > Énoncé : cours 1 \
 > Remise : hebdomadaire (cours 3, 5, 7, 9, 11)
 
@@ -60,7 +60,7 @@ Développement d’un plugin.
 
 Développement d’un thème enfant.
 
-### Épreuve finale (35%)
+### Épreuve finale (30%)
 
 > Date : cours 20
 
