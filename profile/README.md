@@ -56,8 +56,8 @@ Développement d’un plugin.
 
 ### Travail pratique 2 (30%)
 
-> Énoncé : cours 15 \
-> Remise : cours 19
+> Énoncé : cours 14 \
+> Remise : cours 18
 
 Développement d’un thème enfant.
 
