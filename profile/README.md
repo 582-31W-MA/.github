@@ -10,7 +10,7 @@ mpigeon@cmaisonneuve.qc.ca
 
 Le cours *Introduction à un gestionnaire de contenu* (582-31W) est offert à la troisième étape du programme. Il a comme préalable absolu les cours *Programmation Web dynamique* (582-21B), *Programmation d’interface Web 1* (582-21F) et *Création et design de site Web* (582-21W). Ce cours est relié aux champs de compétences Intégration et Programmation et permet à l’étudiant·e de perfectionner son apprentissage de la création de site Web en utilisant un gestionnaire de contenu dynamique.
 
-Ce cours d’introduction à un gestionnaire de contenu vise à acquérir les bases pour créer un site Web à partir d’un gestionnaire de contenu, en passant par les phases successives d’installation, de configuration, d’installation et de développement d’extensions, d’installation et de développement d’un thème, de mise en production et de gestion des évolutions de tous les composants.
+Ce cours d’introduction à un gestionnaire de contenu vise à acquérir les bases pour créer un site Web à partir d’un gestionnaire de contenu, en passant par les phases successives d’installation et de configuration, d’installation et de développement d’extensions, d’installation et de développement d’un thème, de mise en production et de gestion des évolutions de tous les composants.
 
 Ce cours permet l’intégration de plusieurs éléments de compétence vus dans les cours des 2 premières étapes. Il permet à l’étudiant·e, dans le cadre de la création d’un site Web à partir d’un gestionnaire de contenu, de réinvestir ses acquis en programmation et en intégration. Dans ce cours, l’étudiant·e devra consulter par lui- ou elle-même la documentation du CMS et sera donc invité·e à développer son autonomie et sa débrouillardise.
 
